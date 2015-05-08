@@ -6,10 +6,12 @@ Screenshots:
 
 
 ![Alt text](/ScreenShots/Slika1.png?raw=true "Picture 1")
+Слика 1
 
 Слика2 се однесува на изгледот на играта со притискање на копчето за промена на подесувањата. 
 
 ![Alt text](/ScreenShots/Slika2.png?raw=true "Picture 2")
+Слика 2
 
 Во зависност од тоа дали зборот е погоден или не се јавуваат следниве две ситуации
 
