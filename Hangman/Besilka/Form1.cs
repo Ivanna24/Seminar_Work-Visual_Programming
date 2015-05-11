@@ -99,6 +99,8 @@ namespace Besilka
                     words.Add("термометар");
                     words.Add("биологија");
                     words.Add("програмирање");
+                    words.Add("галилеј");
+
                 }
                 else //ovde tesko
                 {
